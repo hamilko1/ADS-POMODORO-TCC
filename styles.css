@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: lightgray;
+}
+
+.pomodoro {
+    margin: 20px;
+    padding: 20px;
+    background-color: #FF5733;
+    border-radius: 10px;
+    display: inline-block;
+}
+
+#timer {
+    font-size: 48px;
+    color: white;
+}
+
+button {
+    font-size: 18px;
+    padding: 10px 20px;
+    margin: 10px;
+    border: none;
+    background-color: #fff;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #ccc;
+}
+
+.color-picker {
+    margin: 20px;
+}
+
+label {
+    font-size: 18px;
+}
+
+#colorSelect {
+    font-size: 16px;
+}
